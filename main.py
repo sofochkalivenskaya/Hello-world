@@ -3,4 +3,6 @@ Type "copyright", "credits" or "license()" for more information.
 >>> a = 'Hello world'
 >>> print(a)
 Hello world
->>> 
+>>> name = input()
+a =("Hello,my name is %s" % name)
+print(a)
