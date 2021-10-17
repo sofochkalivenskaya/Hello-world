@@ -4,5 +4,5 @@ Type "copyright", "credits" or "license()" for more information.
 >>> print(a)
 Hello world
 >>> name = input()
-a =("Hello,my name is %s" % name)
-print(a)
+b =("Hello,my name is %s" % name)
+print(b)
